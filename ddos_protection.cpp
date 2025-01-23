@@ -1,4 +1,4 @@
-// i honestly forgot baout this project, too lazy to finish it
+// i honestly forgot about this project, too lazy to finish it
 
 #include <iostream>
 #include <pcap.h>
